@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1440" role="img" aria-labelledby="title desc">
+<title id="title">The Bible Songs YouTube banner</title>
+<desc id="desc">Deep navy and gold worship banner with sunrise, sea, burning-heart cross logo, brand title and New Creation Worship credit.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#071521"/><stop offset=".56" stop-color="#123550"/><stop offset="1" stop-color="#0B1D2D"/></linearGradient>
+  <radialGradient id="sun" cx="75%" cy="38%" r="28%"><stop stop-color="#FFF7D6" stop-opacity="1"/><stop offset=".18" stop-color="#F2D18A" stop-opacity=".85"/><stop offset="1" stop-color="#D4A44A" stop-opacity="0"/></radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2D18A"/><stop offset=".48" stop-color="#D4A44A"/><stop offset="1" stop-color="#9E6A20"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="2560" height="1440" fill="url(#sky)"/>
+<rect width="2560" height="1440" fill="url(#sun)"/>
+<g opacity=".25" stroke="#F2D18A" stroke-width="4">
+  <path d="M1730 0l250 650"/><path d="M1880 0l130 650"/><path d="M2030 0l10 650"/><path d="M2180 0l-120 650"/>
+</g>
+<path d="M0 870C260 810 430 920 690 865s450-30 670 25 410 72 640 3 390-82 560-42v589H0Z" fill="#071521"/>
+<path d="M0 947c260-61 470 48 700-7s460-20 700 43 470 65 720-12 330-45 440-23" fill="none" stroke="#1A5B6B" stroke-width="18" opacity=".75"/>
+<path d="M0 1030c290-50 500 55 760 9s445-5 670 47 500 61 755-22 290-31 375-15" fill="none" stroke="#123550" stroke-width="22" opacity=".9"/>
+<g transform="translate(310 370) scale(.58)" fill="none" stroke="url(#gold)" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+  <path d="M600 814C430 713 326 604 326 467c0-105 72-180 166-180 52 0 96 25 108 67 12-42 56-67 108-67 94 0 166 75 166 180 0 137-104 246-274 347Z"/>
+  <path d="M600 287c-44-70-38-139 17-207 5 78 61 94 43 173"/>
+  <path d="M514 313c-61-57-69-119-31-187 19 69 79 73 73 143"/>
+  <path d="M686 313c61-57 69-119 31-187-19 69-79 73-73 143"/>
+  <path d="M600 438v252"/><path d="M520 520h160"/>
+</g>
+<g text-anchor="middle">
+  <text x="1280" y="560" fill="#F2D18A" font-family="Georgia, 'Times New Roman', serif" font-size="150" letter-spacing="3">The Bible Songs</text>
+  <text x="1280" y="660" fill="#D4A44A" font-family="Arial, sans-serif" font-size="34" letter-spacing="11">SONGS THAT LEAD HEARTS TO GOD.</text>
+  <line x1="760" y1="770" x2="1090" y2="770" stroke="#D4A44A" stroke-width="2" opacity=".7"/>
+  <line x1="1470" y1="770" x2="1800" y2="770" stroke="#D4A44A" stroke-width="2" opacity=".7"/>
+  <circle cx="1120" cy="770" r="5" fill="#D4A44A"/><circle cx="1440" cy="770" r="5" fill="#D4A44A"/>
+  <text x="1280" y="785" fill="#F2D18A" font-family="Arial, sans-serif" font-size="34" letter-spacing="3">Produced by New Creation Worship</text>
+</g>
+<g transform="translate(2090 595)" fill="#071521" opacity=".95">
+  <circle cx="0" cy="0" r="56"/><rect x="-34" y="52" width="68" height="180" rx="30"/><path d="M-28 96l-110-110 22-22L0 58 116-36l22 22L28 96Z"/>
+</g>
+</svg>

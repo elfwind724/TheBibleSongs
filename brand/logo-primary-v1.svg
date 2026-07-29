@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+<title id="title">The Bible Songs primary logo</title>
+<desc id="desc">A gold burning heart and cross on a deep navy background.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071724"/><stop offset="1" stop-color="#0B1D2D"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2D18A"/><stop offset="0.48" stop-color="#D4A44A"/><stop offset="1" stop-color="#9E6A20"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="10" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="1200" rx="110" fill="url(#bg)"/>
+<circle cx="600" cy="476" r="315" fill="none" stroke="#D4A44A" stroke-width="2" opacity=".23"/>
+<g fill="none" stroke="url(#gold)" stroke-width="38" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+  <path d="M600 814C430 713 326 604 326 467c0-105 72-180 166-180 52 0 96 25 108 67 12-42 56-67 108-67 94 0 166 75 166 180 0 137-104 246-274 347Z"/>
+  <path d="M600 287c-44-70-38-139 17-207 5 78 61 94 43 173"/>
+  <path d="M514 313c-61-57-69-119-31-187 19 69 79 73 73 143"/>
+  <path d="M686 313c61-57 69-119 31-187-19 69-79 73-73 143"/>
+</g>
+<g stroke="#F2D18A" stroke-width="34" stroke-linecap="round" filter="url(#glow)">
+  <path d="M600 438v252"/>
+  <path d="M520 520h160"/>
+</g>
+<text x="600" y="976" text-anchor="middle" fill="#F2D18A" font-family="Georgia, 'Times New Roman', serif" font-size="86" letter-spacing="2">The Bible Songs</text>
+<text x="600" y="1040" text-anchor="middle" fill="#D4A44A" font-family="Arial, sans-serif" font-size="24" letter-spacing="8">SONGS THAT LEAD HEARTS TO GOD.</text>
+</svg>

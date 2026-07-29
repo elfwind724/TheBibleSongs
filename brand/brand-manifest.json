@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "brand": "The Bible Songs",
+  "producer": "New Creation Worship",
+  "credit": "Produced by New Creation Worship",
+  "tagline": "Songs that lead hearts to God.",
+  "content_scope": [
+    "classic Chinese hymns",
+    "original worship songs",
+    "scripture songs",
+    "psalm projects",
+    "instrumental worship",
+    "seasonal and children's worship"
+  ],
+  "assets": [
+    "brand/logo-primary-v1.svg",
+    "brand/youtube-banner-v1.svg",
+    "brand/BRAND-GUIDE.md"
+  ]
+}
